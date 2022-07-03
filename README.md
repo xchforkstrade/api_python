@@ -1,7 +1,5 @@
-# Peatio_API_DOCS
-<html><head></head><body><link rel="stylesheet" type="text/css" href="vostok.css" id="_theme"><div id="_html" class="markdown-theme"><span class="octicon octicon-link"></span></a>Peatio Trade Exchange User API</h1>
-<p>API for XCHFORKS Exchange.</p>
-<p><strong>https://xchforks.trade/api/peatio/v2</strong>
+# XCHFORKS_API_DOKS
+<p><strong>https://www.xchforks.trade/api/v2/peatio</strong>
 <h3 id="security"><a class="anchor" name="security" href="#security"><span class="octicon octicon-link"></span></a>Security</h3>
 <p><strong>Bearer</strong>  </p>
 <table>
